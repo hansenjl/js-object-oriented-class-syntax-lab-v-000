@@ -28,4 +28,7 @@ class BoardMember {
 
 class Ceo {
   
+  hireEmployee(){
+    return 'Welcome aboard!'
+  }
 }
